@@ -1,0 +1,12 @@
+{
+	"groups":[{
+			"keys":"myresource_json",
+			"name":"gameres"
+		}],
+	"resources":[{
+			"name":"myresource_json",
+			"subkeys":"bg,bomb,goldbag,goldcoin,restart_1,restart_2,skull,start_1,start_2,stone,treasureBox",
+			"type":"sheet",
+			"url":"assets/myresource.json"
+		}]
+}

@@ -1,0 +1,34 @@
+{
+  "engineVersion": "5.4.1",
+  "compilerVersion": "5.4.1",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "promise"
+    }
+  ],
+  "vivo": {
+    "usePlugin": true
+  },
+  "targets": {
+    "android": {
+      "appname": "旋转小球",
+      "packagename": "com.qdjspinball"
+    }
+  }
+}

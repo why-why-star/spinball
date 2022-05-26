@@ -1,0 +1,12 @@
+{"file":"myresource.png","frames":{
+"bomb":{"x":3235,"y":1,"w":83,"h":100,"offX":5,"offY":0,"sourceW":100,"sourceH":100},
+"goldbag":{"x":3133,"y":1,"w":100,"h":88,"offX":0,"offY":6,"sourceW":100,"sourceH":100},
+"goldcoin":{"x":3412,"y":1,"w":100,"h":72,"offX":0,"offY":14,"sourceW":100,"sourceH":100},
+"restart_1":{"x":1,"y":2165,"w":2340,"h":1080,"offX":0,"offY":0,"sourceW":2340,"sourceH":1080},
+"restart_2":{"x":2716,"y":1,"w":325,"h":78,"offX":8,"offY":8,"sourceW":339,"sourceH":86},
+"skull":{"x":3320,"y":1,"w":90,"h":85,"offX":4,"offY":12,"sourceW":100,"sourceH":100},
+"start_1":{"x":1,"y":1083,"w":2340,"h":1080,"offX":0,"offY":0,"sourceW":2340,"sourceH":1080},
+"start_2":{"x":2343,"y":1,"w":371,"h":220,"offX":0,"offY":0,"sourceW":371,"sourceH":220},
+"stone":{"x":3514,"y":1,"w":96,"h":68,"offX":3,"offY":15,"sourceW":100,"sourceH":100},
+"treasureBox":{"x":3043,"y":1,"w":88,"h":100,"offX":6,"offY":0,"sourceW":100,"sourceH":100},
+"bg":{"x":1,"y":1,"w":2340,"h":1080,"offX":0,"offY":0,"sourceW":2340,"sourceH":1080}}}
